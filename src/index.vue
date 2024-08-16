@@ -6,7 +6,7 @@
   import BpmnJS from 'bpmn-js/dist/bpmn-navigated-viewer.production.min.js';
 
   export default {
-    name: 'vue-bpmn',
+    name: 'vue-bpmn-84',
     props: {
       url: {
         type: String,
