@@ -6,6 +6,9 @@ All notable changes to [vue-bpmn](https://github.com/bpmn-io/vue-bpmn) are docum
 
 ___Note:__ Yet to be released changes appear here._
 
+## 0.3.1
+* `FIX`: bundled it to get work with Vue 3, also added bpmn-js as dependency
+
 ## 0.3.0
 
 * `FEAT`: accept [BPMN viewer](https://github.com/bpmn-io/bpmn-js) options
