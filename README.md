@@ -19,7 +19,7 @@ Use [bpmn-js](https://github.com/bpmn-io/bpmn-js) to display BPMN 2.0 diagrams i
 </template>
 
 <script>
-  import VueBpmn from 'vue-bpmn-84';
+  import VueBpmn from 'vue-bpmn-98';
 
   export default {
     components: {
